@@ -1,5 +1,4 @@
 # Flower-Classification-Model-CNN
-A custom CNN model developed using python for recognising five famous flower classes
 
 **Project Description:**
 
